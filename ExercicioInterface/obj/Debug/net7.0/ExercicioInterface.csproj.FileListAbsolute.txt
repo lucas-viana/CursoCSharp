@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net7.0\ExercicioInterface.exe
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net7.0\ExercicioInterface.deps.json
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net7.0\ExercicioInterface.runtimeconfig.json
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net7.0\ExercicioInterface.dll
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\bin\Debug\net7.0\ExercicioInterface.pdb
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.dll
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\refint\ExercicioInterface.dll
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.pdb
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExercicioInterface\ExercicioInterface\obj\Debug\net7.0\ref\ExercicioInterface.dll
